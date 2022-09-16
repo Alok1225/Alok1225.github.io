@@ -1,11 +1,4 @@
-<style>
-center{
-background-color:#92a8d1;
-}
-h2{
-  color:white;
-}
-<style>
+
 <center>
 <h2>Wellcome To My Profile</h2>
 <h3>My Name Is Alok Kumar Gupta</h3>
@@ -16,9 +9,7 @@ h2{
 </h6>
  <h6>My Hobby is Playing Cricket and Singing a Song</h6><br>
 <h6>I am interested to learn New Skill</h6>
-<footer>
 <h6>Contact Me</h6>
 <h4>6388007822</h4>
 <h6>Noida Sector 63</h6>
-</footer>
 </center>
