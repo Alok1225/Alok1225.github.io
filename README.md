@@ -1,6 +1,6 @@
 
-<center><h1>Wellcome To My Profile</h1><center>
-<h3>My Name Is Alok Kumar Gupta</h3>           <img src="akuu.png" alt="image is not load">
+<center><h1>Wellcome To My Profile</h1></center>
+<h3>My Name Is Alok Kumar Gupta</h3>           <img src="IMG_20190701_161036.jpg" alt="image is not load" align="right">
 <h4>Qualification</h4>
 <ul>
 <li>I Have Complete Diploma at Hewett Polytechnic,Lucknow</li>
