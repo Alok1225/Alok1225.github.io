@@ -3,12 +3,12 @@
 <h3>My Name Is Alok Kumar Gupta</h3>
 <h4>Qualification</h4>
 <ul>
-<li>I Have Complete Diploma at Hewett Polytechnic,Lucknow<li>
-<li>I Am Pursing B.Tech at Ambalika Institute Of Management And Technology,Lucknow<li>
+<li>I Have Complete Diploma at Hewett Polytechnic,Lucknow</li>
+<li>I Am Pursing B.Tech at Ambalika Institute Of Management And Technology,Lucknow</li>
 </ul>
 <h4>Skill</h4>
 <ul>
-<li>I Have Learome Skill like HTML ,CSS<li>
+<li>I Have Learome Skill like HTML ,CSS</li>
 <li>JAVASCRIPT,JQUERY,PHP AND MYSQL Database.<br>
 </li>
  <ul>
