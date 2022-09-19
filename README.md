@@ -1,6 +1,6 @@
 
 <center><h1>Wellcome To My Profile</h1><center>
-<h3>My Name Is Alok Kumar Gupta</h3>
+<h3>My Name Is Alok Kumar Gupta</h3>           <img src="akuu.png" alt="image is not load">
 <h4>Qualification</h4>
 <ul>
 <li>I Have Complete Diploma at Hewett Polytechnic,Lucknow</li>
@@ -15,7 +15,7 @@
  <h4>Hobby</h4>
  <ul>
 <li>My Hobby is Playing Cricket and Singing a Song</li>
-<li>I am interested to learn New Skill</li>>
+<li>I am interested to learn New Skill</li>
 </ul>
 <h4>Contact Me</h4>
 <ul><li>Phone No-6388007822</li>
