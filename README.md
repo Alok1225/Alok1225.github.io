@@ -1,15 +1,25 @@
 
-<center>
-<h2>Wellcome To My Profile</h2>
+<center><h1>Wellcome To My Profile</h1><center>
 <h3>My Name Is Alok Kumar Gupta</h3>
-<h4>I am Student And PHP Developer</h4>
-<h5>I am Study In B.Tech</h5>
-<h6>I Have Learn Some Skill like HTML ,CSS<br>
-,JAVASCRIPT,JQUERY,PHP AND MYSQL Database.<br></h6>
- <h6>I Love Coding</h6>
-<h6>My Hobby is Playing Cricket and Singing a Song</h6><br>
-<h6>I am interested to learn New Skill</h6>
-<h6>Contact Me</h6>
-<h4>6388007822</h4>
-<h6>Noida Sector 63</h6>
-</center>
+<h4>Qualification</h4>
+<ul>
+<li>I Have Complete Diploma at Hewett Polytechnic,Lucknow<li>
+<li>I Am Pursing B.Tech at Ambalika Institute Of Management And Technology,Lucknow<li>
+</ul>
+<h4>Skill</h4>
+<ul>
+<li>I Have Learome Skill like HTML ,CSS<li>
+<li>JAVASCRIPT,JQUERY,PHP AND MYSQL Database.<br>
+</li>
+ <ul>
+ <h4>Hobby</h4>
+ <ul>
+<li>My Hobby is Playing Cricket and Singing a Song</li>
+<li>I am interested to learn New Skill</li>>
+<ul>
+<h4>Contact Me</h4>
+<ul><li>Phone No-6388007822<li>
+<li>Current Address :-Noida Sector 53</li>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.2953056336396!2d77.3638102150354!3d28.590916482434206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce59d5b20a84d%3A0x349f0f2106308cbe!2sUttarakhand%20Bhojnalaya!5e0!3m2!1sen!2sin!4v1663613044266!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<ul>
+
